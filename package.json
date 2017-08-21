@@ -1,0 +1,14 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "lib helper",
+  "main": "lib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "lib"
+  ],
+  "author": "alan nungaray <alannungaray@hotmail.com>",
+  "license": "ISC"
+}
